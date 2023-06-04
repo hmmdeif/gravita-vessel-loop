@@ -1,5 +1,7 @@
 # Gravita Loop Contract
 
+![Main](https://github.com/hmmdeif/gravita-vessel-loop/actions/workflows/test.yml/badge.svg)
+
 Mimics InstaDapp/DefiSaver type looping for Gravita Vessels.
 
 ## Build
